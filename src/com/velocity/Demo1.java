@@ -7,6 +7,9 @@ public class Demo1 {
 		for(int x:a) {
 			System.out.println(x);
 		}
+		for(int i =0; i<a.length; i++) {
+			System.out.println(a[i]);
+		}
 
 	}
 
